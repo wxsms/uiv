@@ -183,7 +183,7 @@ export default {
         // If two modals share the same v-if condition the calculated z-index is incorrect,
         // resulting in popover misbehaviour.
         // solved by adding a nextTick.
-        // https://github.com/uiv-lib/uiv/issues/342
+        // https://github.com/wxsms/uiv/issues/342
         this.$nextTick(() => {
           const alreadyOpenModalNum = getOpenModalNum();
           document.body.appendChild(backdrop);

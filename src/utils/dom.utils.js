@@ -259,7 +259,7 @@ export function setTooltipPosition(
   } else if (placement === PLACEMENTS.RIGHT) {
     top =
       containerScrollTop + rect.top + rect.height / 2 - tooltipRect.height / 2;
-    // https://github.com/uiv-lib/uiv/issues/272
+    // https://github.com/wxsms/uiv/issues/272
     // add 1px to fix above issue
     left = containerScrollLeft + rect.left + rect.width + 1;
   } else {

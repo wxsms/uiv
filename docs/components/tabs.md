@@ -80,7 +80,7 @@ In case you need to validate something inside a tab before it being switch, a sa
 
 ## API Reference
 
-### [Tabs](https://github.com/uiv-lib/uiv/blob/1.x/src/components/tabs/Tabs.vue)
+### [Tabs](https://github.com/wxsms/uiv/blob/1.x/src/components/tabs/Tabs.vue)
 
 #### Props
 
@@ -109,7 +109,7 @@ In case you need to validate something inside a tab before it being switch, a sa
 | `change`  | index  | Trigger after active tab changed, with the active index.                  |
 | `changed` | index  | Trigger after tab changed and transition finished, with the active index. |
 
-### [Tab](https://github.com/uiv-lib/uiv/blob/1.x/src/components/tabs/Tab.vue)
+### [Tab](https://github.com/wxsms/uiv/blob/1.x/src/components/tabs/Tab.vue)
 
 #### Props
 

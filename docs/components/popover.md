@@ -95,7 +95,7 @@ Set `trigger` prop to `manual` to disable all the event listeners, and controls 
 
 ## API Reference
 
-### [Popover](https://github.com/uiv-lib/uiv/blob/1.x/src/components/popover/Popover.vue)
+### [Popover](https://github.com/wxsms/uiv/blob/1.x/src/components/popover/Popover.vue)
 
 #### Props
 
@@ -112,7 +112,7 @@ Set `trigger` prop to `manual` to disable all the event listeners, and controls 
 | `auto-placement` | Boolean            | true          |          | Try to auto adjust the placement if the set one does not have enough space to show.                                                                                                  |
 | `trigger`        | String             | outside-click |          | The popover trigger event, support `hover` / `focus` / `hover-focus` / `click` / `outside-click` / `manual`                                                                          |
 | `append-to`      | String             | body          |          | Element selector that the popover append to.                                                                                                                                         |
-| `position-by`    | String             |               |          | Element selector that the popover position by, see [#410](https://github.com/uiv-lib/uiv/issues/410).                                                                                |
+| `position-by`    | String             |               |          | Element selector that the popover position by, see [#410](https://github.com/wxsms/uiv/issues/410).                                                                                |
 | `transition`     | Number             | 150           |          | The popover show / hide transition time in ms.                                                                                                                                       |
 | `show-delay`     | Number             | 0             |          | Delay showing the Popover (ms).                                                                                                                                                      |
 | `hide-delay`     | Number             | 0             |          | Delay hidding the Popover (ms).                                                                                                                                                      |
@@ -133,7 +133,7 @@ Set `trigger` prop to `manual` to disable all the event listeners, and controls 
 | `show` |        | Fire after popover show. |
 | `hide` |        | Fire after popover hide. |
 
-### [Directive](https://github.com/uiv-lib/uiv/blob/1.x/src/directives/popover/popover.js)
+### [Directive](https://github.com/wxsms/uiv/blob/1.x/src/directives/popover/popover.js)
 
 The binding value will be the title and text content of corresponding popover.
 

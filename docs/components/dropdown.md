@@ -67,7 +67,7 @@ use `not-close-elements` to prevent dropdown close on menu body click if needed.
 
 ## API Reference
 
-### [Dropdown](https://github.com/uiv-lib/uiv/blob/1.x/src/components/dropdown/Dropdown.vue)
+### [Dropdown](https://github.com/wxsms/uiv/blob/1.x/src/components/dropdown/Dropdown.vue)
 
 #### Props
 
