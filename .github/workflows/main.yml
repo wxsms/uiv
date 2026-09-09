@@ -1,8 +1,12 @@
 name: lint and test
 
 on:
-  - push
-  - pull_request
+  push:
+    branches:
+      - dev
+      - master
+      - main
+  pull_request:
 
 jobs:
   lint:
