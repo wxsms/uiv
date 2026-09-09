@@ -1,5 +1,5 @@
 <p align="center">
-<img src="https://static.wxsm.space/uiv/logo.png" alt="uiv-logo.png">
+<img src="docs/public/assets/image/logo.png" alt="uiv-logo.png">
 </p>
 
 <p align="center">
@@ -26,11 +26,11 @@ If this project has helped you out, please support it with a star :star2:.
 
 ## Versions
 
-| uiv version | Vue.js version | document                                               |
-|-------------|----------------|--------------------------------------------------------|
-| 2.x         | 3.x            | [https://uiv.wxsm.space](https://uiv.wxsm.space)       |
-| 1.x         | 2.x            | [https://uiv-v1.wxsm.space](https://uiv-v1.wxsm.space) |
-| 0.x         | 2.x            | [https://uiv-v0.wxsm.space](https://uiv-v0.wxsm.space) |
+| uiv version | Vue.js version | document                                                              |
+|-------------|----------------|-----------------------------------------------------------------------|
+| 2.x         | 3.x            | [https://wxsms.github.io/uiv/](https://wxsms.github.io/uiv/)           |
+| 1.x         | 2.x            | [https://wxsms.github.io/uiv-website-v1/](https://wxsms.github.io/uiv-website-v1/) |
+| 0.x         | 2.x            | [https://wxsms.github.io/uiv-website-v0/](https://wxsms.github.io/uiv-website-v0/) |
 
 ## Quick start
 
@@ -51,7 +51,7 @@ app.use(uiv)
 app.mount(...)
 ```
 
-For more information, pls visit [https://uiv.wxsm.space/usage/getting-started.html](https://uiv.wxsm.space/usage/getting-started.html)
+For more information, pls visit [https://wxsms.github.io/uiv/usage/getting-started](https://wxsms.github.io/uiv/usage/getting-started)
 
 ## Changelog
 
@@ -60,7 +60,7 @@ Detailed changes for each release are documented in the [release notes](https://
 ## Special thanks
 
 <p>
-<a href="https://www.jetbrains.com/?from=uiv"><img width="250" src="https://static.wxsm.space/others/jetbrains-logo.png" alt="jetbrains-logo.png"></a>
+<a href="https://www.jetbrains.com/?from=uiv"><img width="250" src="docs/public/assets/image/funding/jetbrains-logo.png" alt="jetbrains-logo.png"></a>
 </p>
 
 ## Project Stats

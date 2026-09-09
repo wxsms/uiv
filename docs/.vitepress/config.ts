@@ -6,6 +6,7 @@ export default defineConfig({
   title: 'uiv',
   description: 'Bootstrap 3 components implemented by Vue.',
 
+  base: '/uiv/',
   lastUpdated: true,
 
   head: [
@@ -73,8 +74,8 @@ function navbar() {
     {
       text: 'Versions',
       items: [
-        { text: '1.x', link: 'https://uiv-v1.wxsm.space' },
-        { text: '0.x', link: 'https://uiv-v0.wxsm.space' },
+        { text: '1.x', link: 'https://wxsms.github.io/uiv-website-v1/' },
+        { text: '0.x', link: 'https://wxsms.github.io/uiv-website-v0/' },
       ],
     },
     { text: 'Changelog', link: 'https://github.com/uiv-lib/uiv/releases' },
