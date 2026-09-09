@@ -6,7 +6,10 @@ export default defineConfig({
   title: 'uiv',
   description: 'Bootstrap 3 components implemented by Vue.',
 
-  base: '/uiv/',
+  // Sub-path base is only needed when deploying to GitHub Pages; it is
+  // injected via VITEPRESS_BASE in the deploy workflow. Local dev/build
+  // defaults to '/'.
+  base: process.env.VITEPRESS_BASE || '/',
   lastUpdated: true,
 
   head: [

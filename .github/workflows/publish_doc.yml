@@ -23,6 +23,8 @@ jobs:
           run_install: true
       - name: Build
         run: pnpm run docs:build
+        env:
+          VITEPRESS_BASE: /uiv/
       - name: GitHub Pages
         uses: crazy-max/ghaction-github-pages@v5.0.0
         env:
