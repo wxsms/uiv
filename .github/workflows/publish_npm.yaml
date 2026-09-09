@@ -1,19 +1,24 @@
-name: publish npm
+name: Publish Package
 
 on:
   push:
     tags:
       - 'v*'
 
+permissions:
+  id-token: write  # Required for OIDC
+  contents: read
+
 jobs:
-  deploy_npm:
+  publish:
     runs-on: ubuntu-latest
     steps:
       - uses: actions/checkout@v7.0.1
-      - uses: actions/setup-node@v7.0.0
+      - uses: actions/setup-node@v6
         with:
-          node-version: 24
+          node-version: '24'
           registry-url: 'https://registry.npmjs.org'
+          package-manager-cache: false  # never use caching in release builds
       - uses: pnpm/action-setup@v6.0.10
         with:
           version: 11.25.0
@@ -22,5 +27,3 @@ jobs:
         run: pnpm run dist
       - name: Publish NPM
         run: npm publish
-        env:
-          NODE_AUTH_TOKEN: ${{ secrets.NPM_TOKEN }}
