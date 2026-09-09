@@ -40,10 +40,10 @@ export default defineConfig({
 
     logo: '/assets/image/logo.png',
     editLink: {
-      pattern: 'https://github.com/uiv-lib/uiv/edit/dev/docs/:path',
+      pattern: 'https://github.com/wxsms/uiv/edit/dev/docs/:path',
       text: 'Edit this page on GitHub',
     },
-    socialLinks: [{ icon: 'github', link: 'https://github.com/uiv-lib/uiv' }],
+    socialLinks: [{ icon: 'github', link: 'https://github.com/wxsms/uiv' }],
     footer: {
       message: 'Released under the MIT License.',
       copyright: 'Copyright © 2017-present Kairui Guo',
@@ -78,7 +78,7 @@ function navbar() {
         { text: '0.x', link: 'https://wxsms.github.io/uiv-website-v0/' },
       ],
     },
-    { text: 'Changelog', link: 'https://github.com/uiv-lib/uiv/releases' },
+    { text: 'Changelog', link: 'https://github.com/wxsms/uiv/releases' },
   ];
 }
 

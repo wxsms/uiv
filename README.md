@@ -3,11 +3,11 @@
 </p>
 
 <p align="center">
-<a href="https://github.com/uiv-lib/uiv/actions/workflows/main.yml"><img src="https://github.com/uiv-lib/uiv/actions/workflows/main.yml/badge.svg" alt="Build Status"></a>
-<a href="https://codecov.io/gh/uiv-lib/uiv"> <img src="https://codecov.io/gh/uiv-lib/uiv/branch/dev/graph/badge.svg" alt="Coverage Status"></a>
+<a href="https://github.com/wxsms/uiv/actions/workflows/main.yml"><img src="https://github.com/wxsms/uiv/actions/workflows/main.yml/badge.svg" alt="Build Status"></a>
+<a href="https://codecov.io/gh/wxsms/uiv"> <img src="https://codecov.io/gh/wxsms/uiv/branch/dev/graph/badge.svg" alt="Coverage Status"></a>
 <a href="https://www.npmjs.com/package/uiv"><img src="https://badgen.net/npm/dm/uiv" alt="NPM Downloads"></a>
 <a href="https://www.npmjs.com/package/uiv"><img src="https://badgen.net/npm/v/uiv" alt="NPM Version"></a>
-<a href="https://github.com/uiv-lib/uiv"><img src="https://badgen.net/github/license/uiv-lib/uiv" alt="License"></a>
+<a href="https://github.com/wxsms/uiv"><img src="https://badgen.net/github/license/wxsms/uiv" alt="License"></a>
 </p>
 
 
@@ -55,7 +55,7 @@ For more information, pls visit [https://wxsms.github.io/uiv/usage/getting-start
 
 ## Changelog
 
-Detailed changes for each release are documented in the [release notes](https://github.com/uiv-lib/uiv/releases).
+Detailed changes for each release are documented in the [release notes](https://github.com/wxsms/uiv/releases).
 
 ## Special thanks
 

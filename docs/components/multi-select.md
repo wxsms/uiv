@@ -68,7 +68,7 @@ By default, options are filtered by item value and label (case ignored), use a c
 
 ## API Reference
 
-### [MultiSelect](https://github.com/uiv-lib/uiv/blob/1.x/src/components/select/MultiSelect.vue)
+### [MultiSelect](https://github.com/wxsms/uiv/blob/1.x/src/components/select/MultiSelect.vue)
 
 #### Props
 

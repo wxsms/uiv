@@ -32,7 +32,7 @@ Parse `to` (String or Object) instead of `href` will create a `router-link` for 
 
 ## API Reference
 
-### [Breadcrumbs](https://github.com/uiv-lib/uiv/blob/1.x/src/components/breadcrumbs/Breadcrumbs.js)
+### [Breadcrumbs](https://github.com/wxsms/uiv/blob/1.x/src/components/breadcrumbs/Breadcrumbs.js)
 
 #### Props
 
@@ -46,7 +46,7 @@ Parse `to` (String or Object) instead of `href` will create a `router-link` for 
 |-----------|-----------------------|
 | `default` | The breadcrumbs body. |
 
-### [BreadcrumbItem](https://github.com/uiv-lib/uiv/blob/1.x/src/components/breadcrumbs/BreadcrumbItem.js)
+### [BreadcrumbItem](https://github.com/wxsms/uiv/blob/1.x/src/components/breadcrumbs/BreadcrumbItem.js)
 
 #### Props
 

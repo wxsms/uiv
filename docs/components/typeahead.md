@@ -82,7 +82,7 @@ An example with custom template and `async-function`:
 
 ## API Reference
 
-### [Typeahead](https://github.com/uiv-lib/uiv/blob/1.x/src/components/typeahead/Typeahead.vue)
+### [Typeahead](https://github.com/wxsms/uiv/blob/1.x/src/components/typeahead/Typeahead.vue)
 
 #### Props
 

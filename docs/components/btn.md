@@ -70,7 +70,7 @@ This needed to work with [`btn-group`](/components/btn-group.html) for correct s
 
 ## API Reference
 
-### [Btn](https://github.com/uiv-lib/uiv/blob/1.x/src/components/button/Btn.js)
+### [Btn](https://github.com/wxsms/uiv/blob/1.x/src/components/button/Btn.js)
 
 #### Props
 

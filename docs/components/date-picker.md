@@ -85,7 +85,7 @@ See below example for detail usage, which has all sunday highlighted:
 
 ## API Reference
 
-### [DatePicker](https://github.com/uiv-lib/uiv/blob/1.x/src/components/datepicker/DatePicker.vue)
+### [DatePicker](https://github.com/wxsms/uiv/blob/1.x/src/components/datepicker/DatePicker.vue)
 
 #### Props
 

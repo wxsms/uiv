@@ -35,7 +35,7 @@ No matter the implementation method, scrollspy requires the use of `position: re
 
 ## API Reference
 
-### [scrollspy](https://github.com/uiv-lib/uiv/blob/1.x/src/directives/scrollspy/scrollspy.js)
+### [scrollspy](https://github.com/wxsms/uiv/blob/1.x/src/directives/scrollspy/scrollspy.js)
 
 #### Options
 

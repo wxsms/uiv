@@ -20,11 +20,11 @@
   ],
   "repository": {
     "type": "git",
-    "url": "git+https://github.com/uiv-lib/uiv.git"
+    "url": "git+https://github.com/wxsms/uiv.git"
   },
   "license": "MIT",
   "bugs": {
-    "url": "https://github.com/uiv-lib/uiv/issues"
+    "url": "https://github.com/wxsms/uiv/issues"
   },
   "homepage": "https://wxsms.github.io/uiv/",
   "packageManager": "pnpm@11.25.0",

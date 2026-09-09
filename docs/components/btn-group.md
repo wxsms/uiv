@@ -64,7 +64,7 @@ Due to Bootstrap limitation, `justified` prop on `<btn>` is needed while it is r
 
 ## API Reference
 
-### [BtnGroup](https://github.com/uiv-lib/uiv/blob/1.x/src/components/button/BtnGroup.js)
+### [BtnGroup](https://github.com/wxsms/uiv/blob/1.x/src/components/button/BtnGroup.js)
 
 #### Props
 
@@ -80,6 +80,6 @@ Due to Bootstrap limitation, `justified` prop on `<btn>` is needed while it is r
 |-----------|------------------------|
 | `default` | The button group body. |
 
-### [BtnToolbar](https://github.com/uiv-lib/uiv/blob/1.x/src/components/button/BtnToolbar.js)
+### [BtnToolbar](https://github.com/wxsms/uiv/blob/1.x/src/components/button/BtnToolbar.js)
 
 This component has no props.

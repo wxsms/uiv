@@ -20,7 +20,7 @@ Try to scroll the page down and see what's happening to the alert:
 
 ## API Reference
 
-### [Affix](https://github.com/uiv-lib/uiv/blob/1.x/src/components/affix/Affix.vue)
+### [Affix](https://github.com/wxsms/uiv/blob/1.x/src/components/affix/Affix.vue)
 
 #### Props
 
