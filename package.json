@@ -62,7 +62,7 @@
     "vitest": "5.0.1",
     "vue": "3.5.42",
     "vue-eslint-parser": "^10.4.1",
-    "vue-i18n": "11.4.10"
+    "vue-i18n": "11.4.12"
   },
   "peerDependencies": {
     "vue": "^3"
