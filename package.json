@@ -27,7 +27,7 @@
     "url": "https://github.com/wxsms/uiv/issues"
   },
   "homepage": "https://wxsms.github.io/uiv/",
-  "packageManager": "pnpm@12.4.0",
+  "packageManager": "pnpm@12.4.2",
   "scripts": {
     "start": "npm run dev",
     "dev": "npm run docs:dev",
