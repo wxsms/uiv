@@ -44,7 +44,7 @@
     "@vitejs/plugin-vue": "6.0.11",
     "@vue/compiler-sfc": "3.5.45",
     "@vue/test-utils": "2.6.0",
-    "@vitest/coverage-v8": "5.1.0",
+    "@vitest/coverage-v8": "5.1.1",
     "axios": "1.21.1",
     "bootstrap": "3.4.1",
     "eslint": "10.15.0",
@@ -59,7 +59,7 @@
     "prettier": "3.10.1",
     "vite": "8.3.8",
     "vitepress": "1.6.4",
-    "vitest": "5.1.0",
+    "vitest": "5.1.1",
     "vue": "3.5.45",
     "vue-eslint-parser": "^10.4.1",
     "vue-i18n": "11.4.23"
